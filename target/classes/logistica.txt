@@ -1,0 +1,7 @@
+guatemala,zacapa,1,2,3,4
+guatemala,altaverapaz,6,3,2,1
+guatemala,chimaltenango,3,5,4,2
+chimaltenango,guatemala,3,4,2,1
+chimaltenango,zacapa,3,4,5,6
+zacapa,altaverapaz,2,3,4,3
+altaverapaz,guatemala,2,3,1,3
